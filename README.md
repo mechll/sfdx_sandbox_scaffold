@@ -1,3 +1,3 @@
-# Visual Stuidio Searh Sandbox
+# Visual Stuidio Search Sandbox
 
 ## Build Scripts
